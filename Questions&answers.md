@@ -210,8 +210,6 @@ Output:
 
 -----------------------------------------------------------------------------------
 
------------------------------------------------------------------------------------
-
 10.	We would like to understand how much your customers are spending with you, and also to know who your most valuable customers are. Please pull together a list of customer names, their total lifetime rentals, and the sum of all payments you have collected from them. It would be great to see in this order on total lifetime value, with the most valuable customers at the top of the list.
 
 ```SQL
@@ -237,8 +235,6 @@ This will display the Name, Total rentals, and sum of the payments of the custom
 Output:
 
 ![10](Outputs/10.jpg)
-
------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------
 
