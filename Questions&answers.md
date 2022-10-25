@@ -21,5 +21,5 @@ This SQL query will return the all the staff members and their details from staf
 
 Output:
 
-![1](https://user-images.githubusercontent.com/71631641/197812663-db374ffa-1f52-4232-8c03-d5b8ac2fd034.jpg)
-![alt text](http://url/to/img.png)
+<!-- ![1](https://user-images.githubusercontent.com/71631641/197812663-db374ffa-1f52-4232-8c03-d5b8ac2fd034.jpg) -->
+![1](Outputs/1.jpg)
