@@ -7,4 +7,5 @@ This database consists of 19 tables, 145 columns, 51 indexes, 6 triggers, 7 view
 
 I am attaching the ER Diagram to view the dataase and also the connections between the tables so that you can understand the database better.
 
-![ER_Diagram](/outputs/ER_Diagram.jpg)
+![ER_Diagram](Outputs/ER_Diagram.jpg)
+<!-- ![1](Outputs/1.jpg) -->
